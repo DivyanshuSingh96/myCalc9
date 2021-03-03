@@ -11,7 +11,7 @@ setuptools.setup(
     license="MIT",
     description='A small mathematical library for quick calculations',
     long_description=README,
-    url='',
+    url='https://github.com/DivyanshuSingh96/myCalc9',
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     classifiers=[
